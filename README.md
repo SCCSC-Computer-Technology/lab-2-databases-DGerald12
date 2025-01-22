@@ -2,3 +2,6 @@
 
 Just added Lab 2 Population Database (CityDB.mdf)
 Loved working on this! Somewhat challenging.
+
+*****UPDATE*****
+Was a little confused as to whether I should upload a zip file or upload each individual file; so I did both 😊
